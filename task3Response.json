@@ -1,0 +1,47 @@
+{
+  "creationTime": "2023-06-15T14:53:37.830897",
+  "startDate": "2023-06-12",
+  "endDate": "2023-06-16",
+  "forecasts": [
+    {
+      "date": "2023-06-12",
+      "highestTemperature": "106.4°F",
+      "lowestTemperature": "82.0°F",
+      "averagePrecipitationProbability": "0.0%",
+      "averageRelativeHumidity": "16.5%",
+      "averageWindspeed": "10.6mp/h"
+    },
+    {
+      "date": "2023-06-13",
+      "highestTemperature": "99.1°F",
+      "lowestTemperature": "85.2°F",
+      "averagePrecipitationProbability": "0.0%",
+      "averageRelativeHumidity": "19.5%",
+      "averageWindspeed": "13.8mp/h"
+    },
+    {
+      "date": "2023-06-14",
+      "highestTemperature": "94.9°F",
+      "lowestTemperature": "80.6°F",
+      "averagePrecipitationProbability": "0.0%",
+      "averageRelativeHumidity": "27.3%",
+      "averageWindspeed": "6.8mp/h"
+    },
+    {
+      "date": "2023-06-15",
+      "highestTemperature": "99.2°F",
+      "lowestTemperature": "79.0°F",
+      "averagePrecipitationProbability": "0.0%",
+      "averageRelativeHumidity": "24.0%",
+      "averageWindspeed": "5.1mp/h"
+    },
+    {
+      "date": "2023-06-16",
+      "highestTemperature": "106.5°F",
+      "lowestTemperature": "81.2°F",
+      "averagePrecipitationProbability": "0.0%",
+      "averageRelativeHumidity": "16.0%",
+      "averageWindspeed": "6.2mp/h"
+    }
+  ]
+}
