@@ -1,4 +1,4 @@
-# emory-java-assessment
+# memory-java-assessment
 
 ## Instructions
 
